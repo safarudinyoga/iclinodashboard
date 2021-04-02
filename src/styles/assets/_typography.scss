@@ -4,7 +4,7 @@
 body {
   // @include font-size($desktop--font-size--body);
   // @include font--primary($regular);
-  // font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: $color--black;
@@ -174,10 +174,6 @@ h4 {
 
 .t-red {
   color: $color--red;
-}
-
-.t-gold {
-  color: $color--gold
 }
 
 .t-error {

@@ -1,0 +1,27 @@
+@import 'assets/mixins'
+@import 'assets/variables';
+
+.dashboardhome
+  width: 100vw
+  height: 100vh
+  background-color: #EBEBEB
+  +flex(row, center, center)
+
+  .containerdashboard
+    width: 50%
+    height: 70%
+    background-color: #fff
+    border-radius: 10px
+    padding: 40px 100px
+    +flex(row)
+
+    .iconcontent
+      width: 40%
+      height: 100%
+      // background-color: lightblue
+      position: relative
+
+    .formcontent
+      width: 60%
+      height: 100%
+      background-color: lightgreen

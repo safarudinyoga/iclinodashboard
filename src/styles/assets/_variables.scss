@@ -124,12 +124,11 @@ $bold: 700;
 // -----------------------------------------------------------------------------
 // $color--primary: #644AAA;
 
-$color--black: #434343;
-$color--sub-black: #8D8D8D;
+$color--black: #525252;
+$color--sub-black: #C1C4C3;
 $color--white: #fff;
-$color--blue: #26A4FF;
-$color--red: #FF3030;
-$color--gold: #CBA35E;
+$color--blue: #4ADECF;
+$color--red: #FF3535;
 
 
 $color--grey: #CECECE;
@@ -208,34 +207,4 @@ $breakpoint-biglaptop-max: 1700px;
   right: 0;
   bottom: 0;
 }
-
-/*
-/* Positioning */
-/* position: absolute;
-  z-index: 10;
-  top: 0;
-  right: 0;
-
-/* Display & Box Model */
-// display: inline-block;
-// overflow: hidden;
-// box-sizing: border-box;
-// width: 100px;
-// height: 100px;
-// padding: 10px;
-// border: 10px solid #333;
-// margin: 10px;
-
-/* Color */
-// background: #000;
-// color: #fff
-
-/* Text */
-// font-family: sans-serif;
-// font-size: 16px;
-// line-height: 1.4;
-// text-align: right;
-
-/* Other */
-// cursor: pointer;
 
